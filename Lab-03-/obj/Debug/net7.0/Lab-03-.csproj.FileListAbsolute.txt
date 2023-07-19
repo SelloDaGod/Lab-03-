@@ -1,0 +1,15 @@
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\bin\Debug\net7.0\Lab-03-.exe
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\bin\Debug\net7.0\Lab-03-.deps.json
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\bin\Debug\net7.0\Lab-03-.runtimeconfig.json
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\bin\Debug\net7.0\Lab-03-.dll
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\bin\Debug\net7.0\Lab-03-.pdb
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\Lab-03-.csproj.AssemblyReference.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\Lab-03-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\Lab-03-.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\Lab-03-.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\Lab-03-.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\Lab-03-.dll
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\refint\Lab-03-.dll
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\Lab-03-.pdb
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\Lab-03-.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\Lab-03-\Lab-03-\obj\Debug\net7.0\ref\Lab-03-.dll
